@@ -1,2 +1,14 @@
-# new-restocked-products
-A WordPress plugin that automatically categorizes newly published or restocked products into the 'New &amp; Restocked' category, and removes them after 5 days.
+# New & Restocked Products
+
+A custom WooCommerce plugin for automatically categorizing products.
+
+# Features
+
+- ✅ Automatically adds newly published products to `New & Restocked`
+- ✅ Automatically adds products when stock goes from 0 ➜ positive
+- ✅ Automatically removes the category after 5 days
+- ❌ Updates won't re-trigger this logic
+
+# Developed by
+
+Sijia Li
